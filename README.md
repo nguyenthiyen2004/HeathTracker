@@ -58,6 +58,6 @@ Dữ liệu mô hình (Data Models)
 
 Cảm biến và dịch vụ (Sensors & Services)
 
-    BackgroundSyncService.java: Có thể là dịch vụ chạy ngầm để đồng bộ dữ liệu.
+    BackgroundSyncService.java: dịch vụ chạy ngầm để đồng bộ dữ liệu.
     
     StepCounterService.java: Dịch vụ đếm bước chân.
