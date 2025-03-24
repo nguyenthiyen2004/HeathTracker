@@ -1,3 +1,23 @@
+Những File, Folder chưa code:
+    File
+        ProfileActivity.java
+        SettingsActivity.java
+        ExerciseFragment.java
+        WaterFragment.java
+        ExerciseData.java
+        User.java
+        BackgroundSyncService.java
+        HeartRateMonitor.java
+        NotificationHelper.java
+        PreferenceManager.java
+        StepCounter.java
+        ...
+    Folder
+        Adapter
+        data
+        ui
+
+
 Hoạt động chính (Main Features)
 
     MainActivity.java: Giao diện chính của ứng dụng.
